@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import './home.scss'
-import video from '../../assets/video.mp4'
 import { IoLocationSharp } from 'react-icons/io5'
 import { HiFilter } from 'react-icons/hi'
 import { FiFacebook } from 'react-icons/fi'
@@ -17,8 +16,7 @@ const Home = () => {
   return (
     <section className='home'>
       <div className='overlay' />
-      <video src={video} muted autoPlay loop type='video/mp4' />
-
+      <video src='/assets/video.mp4' muted autoPlay loop type='video/mp4' />
       <div className='homeContent container'>
         <div className='textDiv'>
           <span data-aos='fade-up' className='smallText'>
