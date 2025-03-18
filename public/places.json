@@ -5,8 +5,8 @@
         "desTitle": "Bora Bora",
         "location": "New Zealand",
         "grade": "Cultural relax",
-        "fees": "$700",
-        "descripction": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it’s known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts."
+        "fees": "700",
+        "descripction": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia."
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "location": "India",
         "grade": "Cultural relax",
         "fees": "900",
-        "descripction": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal."
+        "descripction": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra."
     },
     {
         "id": 3,
@@ -23,8 +23,8 @@
         "desTitle": "Bali Island",
         "location": "Indonesia",
         "grade": "Cultural relax",
-        "fees": "500",
-        "descripction": "Balinese culture is a mix of Balinese Hindu-Buddhist religion and Balinese customs. It is perhaps most known for its dance, drama and sculpture. The island is also known for its Wayang kulit or Shadow play theatre."
+        "fees": "700",
+        "descripction": "Balinese culture is a mix of Balinese Hindu-Buddhist religion and Balinese customs."
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "location": "Cambodia",
         "grade": "Cultural relax",
         "fees": "800",
-        "descripction": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world, on a site measuring 162.6 hectares. Originally constructed as a Hindu temple dedicated to the god Vishnu for the Khmer Empire, it was gradually transformed into a Buddhist temple towards the end of the 12th century."
+        "descripction": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world."
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "desTitle": "Machu Picchu",
         "location": "Peru",
         "grade": "Cultural relax",
-        "fees": "600",
-        "descripction": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers northwest of Cuzco."
+        "fees": "700",
+        "descripction": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru."
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "location": "Jordan",
         "grade": "Cultural relax",
         "fees": "1000",
-        "descripction": "Petra is a famous archaeological site in Jordan's southwestern desert. Dating to around 300 B.C., it was the capital of the Nabatean Kingdom. Accessed via a narrow canyon called Al Siq, it contains tombs and temples carved into pink sandstone cliffs, earning its nickname, the 'Rose City.'"
+        "descripction": "Petra is a famous archaeological site in Jordan's southwestern desert. Dating to around 300 B.C."
     },
     {
         "id": 7,
@@ -59,8 +59,8 @@
         "desTitle": "Great Wall of China",
         "location": "China",
         "grade": "Cultural relax",
-        "fees": "400",
-        "descripction": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+        "fees": "900",
+        "descripction": "The Great Wall of China is a series of fortifications northern borders of China to protect the Chinese states and empires."
     },
     {
         "id": 8,
@@ -68,8 +68,8 @@
         "desTitle": "Colosseum",
         "location": "Italy",
         "grade": "Cultural relax",
-        "fees": "300",
-        "descripction": "The Colosseum is an oval amphitheater in the center of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheater ever built, and is still the largest standing amphitheater in the world today, despite its age."
+        "fees": "800",
+        "descripction": "The Colosseum is an oval amphitheater in the center of the city of Rome, Italy, just east of the Roman Forum."
     },
     {
         "id": 9,
@@ -77,8 +77,8 @@
         "desTitle": "Sydney Opera House",
         "location": "Australia",
         "grade": "Cultural relax",
-        "fees": "100",
-        "descripction": "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings."
+        "fees": "1000",
+        "descripction": "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia."
     }
 
 ]

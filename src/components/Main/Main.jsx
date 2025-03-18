@@ -1,23 +1,29 @@
-import { useContext } from 'react'
+import { useContext, useEffect } from 'react'
 import './main.scss'
 import { IoLocationOutline } from 'react-icons/io5'
 import { LuClipboardCheck } from 'react-icons/lu'
 import { PlacesContext } from '../../context/PlacesContext'
+import Aos from 'aos'
+import 'aos/dist/aos.css'
 
 const Main = () => {
   const { places } = useContext(PlacesContext)
 
+  useEffect(() => {
+    Aos.init({ duration: 2000 })
+  }, [])
+
   return (
     <section className='main container section'>
       <div className='secTitle'>
-        <h3 className='title'>
+        <h2 data-aos='fade-right' className='title'>
           Most visited destinations
-        </h3>
+        </h2>
       </div>
 
       <div className='secContent grid'>
         {places?.map((place) => (
-          <div key={place.id} className='singleDestination'>
+          <div data-aos='fade-up' key={place.id} className='singleDestination'>
             <div className='imageDiv'>
               <img src={place.imgSrc} alt={place.desTitle} />
             </div>
@@ -34,7 +40,7 @@ const Main = () => {
                   <span>{place.grade}<small> +1</small></span>
                 </div>
                 <div className='price'>
-                  <h5>{place.fees}</h5>
+                  <h5>${place.fees}</h5>
                 </div>
               </div>
 

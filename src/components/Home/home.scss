@@ -9,7 +9,7 @@
     --greyText: rgb(190, 190, 190);
     --inputColor: rgb(239, 239, 239);
     --bodyColor: rgb(240, 240, 246);
-    --cardBG: rgb(255, 255, 235);
+    --cardBG: rgb(235, 235, 235);
   }
 
   .home{
@@ -213,13 +213,13 @@
 
 @media screen and (min-width: 940px) {
     .home{
-        height: 70vh;
+        height: 80vh;
     }
 }
 
 @media screen and (min-width: 1240px) {
     .home{
-        height: 95vh;
+        height: 90vh;
 
         .homeContent{
             padding-left: 0;
