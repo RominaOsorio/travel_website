@@ -15,7 +15,7 @@
         "location": "India",
         "grade": "Cultural relax",
         "fees": "900",
-        "descripction": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra."
+        "descripction": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna."
     },
     {
         "id": 3,
@@ -60,7 +60,7 @@
         "location": "China",
         "grade": "Cultural relax",
         "fees": "900",
-        "descripction": "The Great Wall of China is a series of fortifications northern borders of China to protect the Chinese states and empires."
+        "descripction": "The Great Wall of China is a series of fortifications northern borders of China to protect the Chinese and empires."
     },
     {
         "id": 8,
@@ -78,7 +78,7 @@
         "location": "Australia",
         "grade": "Cultural relax",
         "fees": "1000",
-        "descripction": "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia."
+        "descripction": "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, Australia."
     }
 
 ]
